@@ -1,6 +1,5 @@
 {
     "cmake.configureSettings": {
-        "CMAKE_PROJECT_TOP_LEVEL_INCLUDES" : "${workspaceFolder}/conan_provider.cmake",
         "cmake.buildDirectory": "${workspaceFolder}/build/${buildType}",
     }
 }
